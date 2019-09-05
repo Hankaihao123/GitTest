@@ -1,4 +1,5 @@
 test Git remote resp
 sceond write 789123456
+sceond write 123456
 san write
 si write
