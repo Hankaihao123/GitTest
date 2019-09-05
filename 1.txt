@@ -3,4 +3,5 @@ sceond write 789123456
 sceond write 123456
 san write
 si write
-fork down 
+fork down
+test ssh
